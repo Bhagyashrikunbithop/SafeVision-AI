@@ -30,27 +30,23 @@ SafeVision is an AI-powered web application that uses computer vision to detect 
 
 ### Home Page
 
-<img src="https://github.com/Bhagyashrikunbithop/SafeVision-AI/blob/1557f37039e634d866c73e754918142e24a25770/images/dashboard1.png" width="800">
-<img src="screenshots/home.png" width="800">
-<img src="screenshots/home.png" width="800">
-<img src="screenshots/home.png" width="800">
+<img src="https://github.com/Bhagyashrikunbithop/SafeVision-AI/blob/20fe2d1c3f5b1cf2a431be10672bd1cc3231af71/images/home1.png" width="800">
+<img src="https://github.com/Bhagyashrikunbithop/SafeVision-AI/blob/20fe2d1c3f5b1cf2a431be10672bd1cc3231af71/images/home2.png" width="800">
+<img src="https://github.com/Bhagyashrikunbithop/SafeVision-AI/blob/20fe2d1c3f5b1cf2a431be10672bd1cc3231af71/images/home3.png" width="800">
+<img src="https://github.com/Bhagyashrikunbithop/SafeVision-AI/blob/20fe2d1c3f5b1cf2a431be10672bd1cc3231af71/images/home4.png" width="800">
 
 ### Login Page
 
-<img src="screenshots/login.png" width="800">
+<img src="https://github.com/Bhagyashrikunbithop/SafeVision-AI/blob/20fe2d1c3f5b1cf2a431be10672bd1cc3231af71/images/login%20page.png" width="800">
 
 ### Dashboard
 
-<img src="screenshots/dashboard.png" width="800">
-<img src="screenshots/home.png" width="800">
+<img src="https://github.com/Bhagyashrikunbithop/SafeVision-AI/blob/20fe2d1c3f5b1cf2a431be10672bd1cc3231af71/images/dashboard1.png" width="800">
+<img src="https://github.com/Bhagyashrikunbithop/SafeVision-AI/blob/20fe2d1c3f5b1cf2a431be10672bd1cc3231af71/images/dashboard2.png" width="800">
 
 ### Detection Results
 
-<img src="screenshots/detection-result.png" width="800">
-
-### History
-
-<img src="screenshots/history.png" width="800">
+<img src="https://github.com/Bhagyashrikunbithop/SafeVision-AI/blob/20fe2d1c3f5b1cf2a431be10672bd1cc3231af71/images/detection%20history.png" width="800">
 
 ---
 
