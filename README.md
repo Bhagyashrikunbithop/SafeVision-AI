@@ -30,7 +30,7 @@ SafeVision is an AI-powered web application that uses computer vision to detect 
 
 ### Home Page
 
-<img src="screenshots/home.png" width="800">
+<img src="https://github.com/Bhagyashrikunbithop/SafeVision-AI/blob/1557f37039e634d866c73e754918142e24a25770/images/dashboard1.png" width="800">
 <img src="screenshots/home.png" width="800">
 <img src="screenshots/home.png" width="800">
 <img src="screenshots/home.png" width="800">
