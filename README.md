@@ -31,6 +31,9 @@ SafeVision is an AI-powered web application that uses computer vision to detect 
 ### Home Page
 
 <img src="screenshots/home.png" width="800">
+<img src="screenshots/home.png" width="800">
+<img src="screenshots/home.png" width="800">
+<img src="screenshots/home.png" width="800">
 
 ### Login Page
 
@@ -39,18 +42,7 @@ SafeVision is an AI-powered web application that uses computer vision to detect 
 ### Dashboard
 
 <img src="screenshots/dashboard.png" width="800">
-
-### Image Analysis
-
-<img src="screenshots/image-analysis.png" width="800">
-
-### Video Analysis
-
-<img src="screenshots/video-analysis.png" width="800">
-
-### Live Detection
-
-<img src="screenshots/live-detection.png" width="800">
+<img src="screenshots/home.png" width="800">
 
 ### Detection Results
 
